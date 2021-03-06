@@ -1,0 +1,26 @@
+{
+	"name": "monks-chat-log",
+	"title": "Monk's Chat Log",
+	"description": "Have separate conversation windows",
+	"version": "1.0.0",
+	"author": "IronMonk, ironmonk88#4075",
+	"socket": true,
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"esmodules": [
+		"monks-chat-log.js",
+		"settings.js"
+	],
+	"styles": [ "css/monks-chat-log.css" ],
+	"packs": [],
+	"url" : "https://github.com/ironmonk88/monks-chat-log",
+	"download" : "https://github.com/ironmonk88/monks-chat-log/archive/1.0.0.zip",
+	"manifest" : "https://github.com/ironmonk88/monks-chat-log/releases/latest/download/module.json",
+	"minimumCoreVersion": "0.7.0",
+	"compatibleCoreVersion": "0.7.9"
+}
